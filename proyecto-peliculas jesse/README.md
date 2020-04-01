@@ -1,0 +1,1 @@
+se realiza codigo, en base a tutoriales de internet, tomando de inicio un codigo ya programado debido a la poca experiencia en el campo, se estudia el codigo a si como sus funciones principales. se toma la movieDB como conexion de busqueda principal de peliculas.  jesse alejandro almanza garcia 
